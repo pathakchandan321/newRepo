@@ -7,9 +7,9 @@ I enjoy building backend applications with **Java and Spring Boot**, and I am lo
 
 - **Language:** Java
 - **Backend:** Spring Boot, Spring Data JPA, REST APIs
-- **Database:** MySQL, Redis
-- **Frontend:** Thymeleaf, HTML
-- **Tools:** Git, GitHub, Swagger
+- **Database:** MySQL
+- **Frontend:** Thymeleaf
+- **Tools:** Git, GitHub
 
 ## 🚀 Projects
 
