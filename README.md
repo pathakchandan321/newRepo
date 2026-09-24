@@ -21,8 +21,6 @@ I enjoy building backend applications with **Java and Spring Boot**, and I am lo
 
 ## 📫 Connect with me
 
-- LinkedIn: www.linkedin.com/in/
-chandanpathak321
-Vanity URL name
+- LinkedIn: www.linkedin.com/in/chandanpathak321
 
 - Email: chandanpathak2005@gmail.com
